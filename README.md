@@ -4,7 +4,7 @@
 
 The script decompresses a file that is received in a "raw" folder in Azure Blob Storage and has a specific prefix.
 Extracts the csv file and renames it, adding 2 digits to the year if needed.
-A Zip file in a "raw" folder can be filtered by date.
+A zip file in a "raw" folder can be filtered by date. It is needed to specify in command line date, prefix(path of the file name), container name in Azure Blob Storage.
 
 ### How to use: 
 * Clone the repository and go to it on the command line:
