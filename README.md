@@ -1,4 +1,4 @@
-﻿# unzip_if_multiple.py
+﻿# unzip_if_multiple
 
 ### Description:
 
@@ -13,7 +13,7 @@ A zip file in a "raw" folder can be filtered by date. It is needed to specify in
 git clone https://github.com/feyaschuk/unzip_if_multiple.git
 ```
 ```bash
-cd unzip_if_multiple.py
+cd unzip_if_multiple
 ```
 
 * Create and activate virtual environment:
