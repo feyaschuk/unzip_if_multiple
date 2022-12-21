@@ -32,7 +32,7 @@ python3 -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-* Add your SecretCredentials in row
+* Add your SecretCredentials in row in file "unzip_if_multiple.py"
 ```bash
 token_credential = ClientSecretCredential("{tenant-id}", "{client-id}", "{client-secret}"
 ```
