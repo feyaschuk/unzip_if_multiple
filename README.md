@@ -10,7 +10,7 @@ A zip file in a "raw" folder can be filtered by date. It is needed to specify in
 * Clone the repository and go to it on the command line:
 
 ```bash
-git clone https://github.com/feyaschuk/unzip_if_multiple.py.git
+git clone https://github.com/feyaschuk/unzip_if_multiple.git
 ```
 ```bash
 cd unzip_if_multiple.py
